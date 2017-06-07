@@ -1,0 +1,20 @@
+.category
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.row
+{
+	padding: 4px;
+}
+
+li
+{
+	margin-bottom: 10px;
+}
+
+.summary .row
+{
+	margin-bottom: 20px;
+}
